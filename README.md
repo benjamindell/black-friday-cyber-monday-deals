@@ -462,6 +462,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Fathom Analytics](https://usefathom.com/docs/account/discount-code) | See offer | — | — |
 | [Fyxer](https://partners.fyxer.com/bergside) | See offer | — | — |
 | [Growave](https://www.growave.io/bfcm-deals) | 20% off | $159.00 / month · Growth | — |
+| [HeyStream](https://heystream.com/pricing?coupon=BF2026) | 40% off · first year of annual Launch, Growth or Scale, new customers | US$1,072.80 / year · Growth, first year | `BF2026` |
 | [HeySummit](https://heysummit.com/pricing?coupon=V3UlY3Iz) | 40% off · first year of annual Starter, Growth or Success, new customers | US$234.00 / year · Starter, first year | `V3UlY3Iz` |
 | [Heyy](https://www.heyy.io/pricing) | See offer | — | — |
 | [Highseat](https://highseat.com/pricing?billing=yearly) | 40% off · first year of annual plans, new customers | From $54.00 / year · first year | — |
